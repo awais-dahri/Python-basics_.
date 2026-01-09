@@ -1,0 +1,7 @@
+# Day 2: Python basics
+
+name = "Awais"
+goal = "Study Computer Science at Oxford University"
+
+print("My name is", name)
+print("My goal is to", goal)
