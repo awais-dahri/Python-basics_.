@@ -25,3 +25,7 @@ This repository represents my **step-by-step efforts** and genuine progress.
 ## Day 4 Progress
 - Practiced Python conditional statements (if / elif / else)
 - Wrote a simple age category program using logic
+
+## Day 5 Progress
+- Learned Python for-loops
+- Used loops with conditions to identify even numbers
