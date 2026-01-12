@@ -21,3 +21,7 @@ This repository represents my **step-by-step efforts** and genuine progress.
 - Python: data structures, algorithms, small projects  
 - Mathematics: MAT-style problem solving  
 - Continue building a clean, structured, public GitHub profile
+
+## Day 4 Progress
+- Practiced Python conditional statements (if / elif / else)
+- Wrote a simple age category program using logic
