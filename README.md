@@ -29,3 +29,7 @@ This repository represents my **step-by-step efforts** and genuine progress.
 ## Day 5 Progress
 - Learned Python for-loops
 - Used loops with conditions to identify even numbers
+
+  ## Day 6 Progress
+- Learned Python while loops
+- Practiced counting up and counting down using logic
