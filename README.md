@@ -33,3 +33,7 @@ This repository represents my **step-by-step efforts** and genuine progress.
   ## Day 6 Progress
 - Learned Python while loops
 - Practiced counting up and counting down using logic
+
+## Day 7 Progress
+- Learned the basic idea of Python functions
+- Created and called a simple function
